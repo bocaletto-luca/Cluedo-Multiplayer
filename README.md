@@ -1,55 +1,57 @@
-# Cluedo Web Game  
+# 🕵️‍♂️ Cluedo Web Game  
 
-Welcome to the **Cluedo Web Game**, a digital version of the classic mystery game! Investigate, deduce, and solve the crime before your opponents.  
+Welcome to the **Cluedo Web Game**, a digital version of the classic **mystery board game**! Investigate, deduce, and solve the crime before your opponents.  
 
-## Author  
+## 👤 Author  
 **Bocaletto Luca**  
 
-## Official Website  
-- [Official Website](https://bocalettoluca.altervista.org)  
-- [GitHub Pages](https://bocaletto-luca.github.io)  
+## 🌐 Official Website  
+🔗 [Website](https://bocalettoluca.altervista.org)  
+🔗 [GitHub Website](https://bocaletto-luca.github.io)  
 
-## Features  
-- **Multiplayer**: Compete with friends online.  
-- **Official Rules**: Follows the classic **Cluedo** gameplay.  
-- **Intuitive UI**: Designed for smooth and immersive play.  
+## ✨ Features  
+✅ **Multiplayer** – Challenge friends online!  
+✅ **Official Rules** – Follows classic **Cluedo** gameplay.  
+✅ **Intuitive UI** – Designed for smooth and immersive play.  
 
-## Technologies Used  
-- HTML  
-- CSS  
-- JavaScript  
+## 🛠️ Technologies Used  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>  
 
-## How to Play  
+## 🎮 How to Play  
 
-### **1. Game Setup**  
-- Players choose a character.  
-- The game randomly selects a **culprit, weapon, and crime scene**, keeping them hidden from all players.  
-- Each player receives **clue cards**, excluding the secret ones.  
+### **1️⃣ Game Setup**  
+🔸 Players choose a **character**.  
+🔸 The game randomly selects the **culprit, weapon, and crime scene** (hidden from all players).  
+🔸 Each player receives **clue cards**, excluding the secret ones.  
 
-### **2. Moving Around the Mansion**  
-- Players roll dice and move between rooms.  
-- Entering a room allows a player to **make suggestions**.  
+### **2️⃣ Moving Around the Mansion**  
+🎲 Players **roll dice** and move between rooms.  
+🚪 Entering a room allows a player to **make suggestions**.  
 
-### **3. Making Suggestions**  
-A suggestion consists of:  
-1. A **suspect**  
-2. A **weapon**  
-3. The **room** the player is currently in  
+### **3️⃣ Making Suggestions**  
+💡 A suggestion consists of:  
+🔹 A **suspect**  
+🔹 A **weapon**  
+🔹 The **room** the player is currently in  
 
-- The next player (clockwise) checks their **cards**—if they have one of the suggested items, they **privately reveal it** to the suggesting player.  
+📝 The next player (clockwise) checks their **cards**—if they have one of the suggested items, they **privately reveal it** to the suggesting player.  
 
-### **4. Deduction & Notes**  
-- Players track suggestions and revealed cards to eliminate possibilities.  
-- The objective is to correctly **identify** the secret culprit, weapon, and crime scene.  
+### **4️⃣ Deduction & Notes**  
+📌 Players track suggestions and revealed cards to **eliminate possibilities**.  
+🎯 The objective is to correctly **identify** the secret culprit, weapon, and crime scene.  
 
-### **5. Making an Accusation**  
-- When confident, a player may make a **final accusation**.  
-- If correct, they **win** the game!  
-- If wrong, they can no longer make accusations but continue revealing clues for others.  
+### **5️⃣ Making an Accusation**  
+⚠️ When confident, a player may make a **final accusation**:  
+✔️ If correct – **Victory!** 🎉  
+❌ If wrong – The player can no longer **make accusations**, but still **reveal clues** for others.  
 
-## How to Start Playing  
-1. Open the [official game website](https://bocaletto-luca.github.io).  
-2. Choose your **character** and start playing.  
-3. Make **suggestions**, gather **clues**, and solve the mystery!  
+## 🚀 How to Start Playing  
+🔹 Open the **[official game website](https://bocaletto-luca.github.io)**  
+🔹 Choose your **character** and start playing!  
+🔹 Make **suggestions**, gather **clues**, and **solve the mystery**!  
 
-Ready to test your detective skills? 🕵️‍♂️  
+🔥 Ready to test your **detective skills**? Let's play! 🕵️‍♂️  

@@ -6,7 +6,7 @@ Welcome to the **Cluedo Web Game**, a digital version of the classic mystery gam
 **Bocaletto Luca**  
 
 ## Official Website  
-- [Altervista](https://bocalettoluca.altervista.org)  
+- [Official Website](https://bocalettoluca.altervista.org)  
 - [GitHub Pages](https://bocaletto-luca.github.io)  
 
 ## Features  

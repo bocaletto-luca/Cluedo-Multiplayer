@@ -2,6 +2,8 @@
 
 Welcome to the **Cluedo Web Game**, a digital version of the classic **mystery board game**! Investigate, deduce, and solve the crime before your opponents.  
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Cluedo-Multiplayer/)
+
 ## 👤 Author  
 **Bocaletto Luca**  
 

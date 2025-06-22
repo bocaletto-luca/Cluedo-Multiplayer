@@ -57,3 +57,5 @@ Welcome to the **Cluedo Web Game**, a digital version of the classic **mystery b
 🔹 Make **suggestions**, gather **clues**, and **solve the mystery**!  
 
 🔥 Ready to test your **detective skills**? Let's play! 🕵️‍♂️  
+
+#### License: GPLv3
